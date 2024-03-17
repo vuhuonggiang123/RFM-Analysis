@@ -17,6 +17,7 @@ _Note: Calculation date of R index is December 31, 2011"_
 4. Based on the classification table to segment customers
 5. Visualize the number of segment sets with data dimensions 
 6. Analyze the company's current status and give suggestions to the Marketing team
+My detail code: 
 
 ### 3. Insights and Recommendations
 ![image](https://github.com/vuhuonggiang123/RFM-Analysis/assets/162288604/d7de7180-5169-48e1-bb71-46f1094225ff)
